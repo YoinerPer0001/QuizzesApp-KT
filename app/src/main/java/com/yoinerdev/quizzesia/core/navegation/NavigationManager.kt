@@ -75,9 +75,7 @@ fun NavigationManager(authViewModel: AuthViewModel, onLanguageChange: (String) -
             exitTransition = { fadeOut(tween(400)) }
         ) {
             MainScreen(authViewModel) {
-                navController.navigate(it) {
-                    popUpTo(0)
-                }
+                navController.navigate(it)
             }
         }
 
