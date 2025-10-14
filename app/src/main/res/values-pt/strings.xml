@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">quizzesIA</string>
+    <string name="web_client_id">948147595756-sbl3s7sb34r1j10tvnhmbpkksr1btbrk.apps.googleusercontent.com</string>
+    <string name="login_welcome_message" translatable="true">Transforme qualquer assunto em um quiz</string>
+    <string name="email_span_login" translatable="true">E-mail</string>
+    <string name="password_span_login" translatable="true">Senha</string>
+    <string name="btn_login" translatable="true">Entrar</string>
+    <string name="forgot_password_text" translatable="true">Esqueceu sua senha?</string>
+    <string name="btn_google_login" translatable="true">Entrar com o Google</string>
+    <string name="No_have_account" translatable="true">Não tem uma conta?</string>
+    <string name="Sign_up" translatable="true">Cadastrar-se</string>
+    <string name="or">o</string>
+    <string name="navBar_home">Início</string>
+    <string name="navBarQuizzes">Meus Qs</string>
+    <string name="navBarDiscover">Descobrir</string>
+    <string name="navBarperfil">Perfil</string>
+    <string name="mainWrite_topic">Escreva um tema</string>
+    <string name="main_Upload_PDF">Enviar PDF</string>
+    <string name="manTopMessage">Como você quer começar?</string>
+    <string name="name_spam">Nome</string>
+    <string name="have_an_account">Você já tem uma conta?</string>
+    <string name="resetPassMessage">Digite seu e-mail e enviaremos um link para redefinir sua senha.</string>
+    <string name="Reset_successful">Redefinição concluída</string>
+    <string name="Error_resetting">Erro ao redefinir, tente novamente.</string>
+    <string name="Reset_password">Redefinir senha</string>
+    <string name="error_unknown">Erro desconhecido</string>
+    <string name="error_valid_email">Digite um e-mail válido</string>
+    <string name="error_empty_fields">Preencha todos os campos</string>
+    <string name="error_password_length">A senha deve conter no mínimo 8 caracteres</string>
+    <string name="error_register">Erro ao registrar, tente novamente</string>
+    <string name="error_auth">Usuário ou senha incorretos</string>
+    <string name="error_auth_google">Erro ao autenticar</string>
+    <string name="error_auth_credential">Credencial não é do Google</string>
+    <string name="error_update">Não foi possível atualizar o nome</string>
+    <string name="error_fetch_data">Erro ao obter os dados, tente novamente...</string>
+    <string name="score">Pontuação</string>
+    <string name="error_create_quiz">Ocurrió un error, intente nuevamente</string>
+    <string name="setup_quiz">Configurar Quiz</string>
+    <string name="earn_credits_ad">Ganhe mais créditos assistindo a um anúncio!</string>
+    <string name="watch_ad_credits">💡 Assista a um vídeo curto de um anúncio e receba 🎁 créditos extras para continuar criando quizzes sem pausas.</string>
+    <string name="wait_credits_renew">⏳ Você também pode esperar 24 horas para que seus créditos sejam renovados automaticamente.</string>
+    <string name="watch_ad">▶️ Ver anúncio</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_ads_title">🚫 Não há anúncios disponíveis</string>
+    <string name="no_ads_text_1">😕 No momento não há vídeos disponíveis para ganhar créditos extras.</string>
+    <string name="no_ads_text_2">⏳ Tente novamente em alguns minutos ou espere 24 horas para que seus créditos sejam renovados automaticamente.</string>
+    <string name="understood">👌 Entendido</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="loading">Carregando...</string>
+    <string name="file_size">Tamanho: %.2f MB</string>
+    <string name="topic">Tópico</string>
+    <string name="number_of_questions">Número de perguntas:</string>
+    <string name="time_per_question">Tempo por pergunta (mins):</string>
+    <string name="difficulty_level">Nível de dificuldade:</string>
+    <string name="question_preferences">Preferências de perguntas</string>
+    <string name="language">Idioma</string>
+    <string name="category">Categoria</string>
+    <string name="true_false">V/F</string>
+    <string name="multiple_choice">Múltipla Escolha</string>
+    <string name="publictxt">Público</string>
+    <string name="error_language_required">O idioma das perguntas é obrigatório</string>
+    <string name="error_category_required">A categoria do quiz é obrigatória</string>
+    <string name="error_type_question_required">É obrigatório selecionar um tipo de pergunta (V/F) ou (Múltipla Escolha)</string>
+    <string name="generate_quiz">Gerar Quiz</string>
+    <string name="error_invalid_code">Erro, código inválido</string>
+    <string name="success_joined">Entrou com sucesso</string>
+    <string name="joining_room">Entrando na sala...</string>
+    <string name="enter_room_code">Insira o código da sala</string>
+    <string name="code">Código</string>
+    <string name="join_room_info">Você só precisa do código da sala para entrar e começar a diversão.</string>
+    <string name="join">Entrar</string>
+    <string name="share_quiz_message1">Junte-se ao meu quiz 🎉\\nCódigo da sala:</string>
+    <string name="share_quiz_message2">Copie o código e cole no app para entrar.</string>
+    <string name="player_left">saiu da partida</string>
+    <string name="insufficient_participants">Participantes insuficientes na partida</string>
+    <string name="error_start_game">Erro ao iniciar, tente novamente</string>
+    <string name="share_code_info">Compartilhe este código com seus amigos para entrarem na diversão</string>
+    <string name="start">Iniciar</string>
+    <string name="waiting_players">Aguardando jogadores...</string>
+    <string name="quiz_starting_soon">O quiz começará em breve.</string>
+    <string name="leave_room">Sair da Sala</string>
+    <string name="join_with_code">Entrar com Código</string>
+    <string name="join_with_code_desc">Insira o código da sala para entrar</string>
+    <string name="error_to_connect">Erro de conexão, tente novamente</string>
+    <string name="error_to_create_room">Erro ao criar, tente novamente</string>
+    <string name="generated_success">Gerado com sucesso!</string>
+    <string name="choose_how_to_use">Escolha como deseja usá-lo</string>
+    <string name="pdf_feature_title">📄 Download em PDF em breve</string>
+    <string name="pdf_feature_msg_1">🚀 A opção de baixar seus quizzes em formato PDF estará disponível na próxima atualização.</string>
+    <string name="pdf_feature_msg_2">🛠️ Estamos trabalhando para oferecer uma experiência mais completa e útil em breve.</string>
+    <string name="get_more_credits_title">✨ Ganhe mais créditos! ✨</string>
+    <string name="watch_video_earn_credits">▶️ Assista a um vídeo curto e receba 🎁 créditos extras para continuar criando quizzes sem interrupções.</string>
+    <string name="no_ads_msg_1">😕 There are currently no videos available to earn extra credits.</string>
+    <string name="no_ads_msg_2">⏳ Try again in a few minutes or wait 24 hours for your credits to renew automatically.</string>
+    <string name="practice_modes">Modos de prática</string>
+    <string name="singleplayer_title">Singleplayer</string>
+    <string name="singleplayer_desc">Desafie-se e domine cada categoria.</string>
+    <string name="multiplayer_title">Multiplayer</string>
+    <string name="multiplayer_desc">Compita com outros jogadores em tempo real.</string>
+    <string name="download_pdf">Baixar PDF</string>
+    <string name="include_answer_sheet">Incluir folha de respostas</string>
+    <string name="error_fetch_quizzes">Erro ao obter quizzes, tentando novamente...</string>
+    <string name="my_quizzes">Meus Quizzes</string>
+    <string name="loading_quizzes">Carregando Quizzes...</string>
+    <string name="created_at">Criado em:</string>
+    <string name="privatetxt">Privado</string>
+    <string name="back">Voltar</string>
+    <string name="load_more">Carregar mais</string>
+    <string name="no_quizzes_yet">Parece que ainda não há quizzes por aqui…</string>
+    <string name="my_profile">Meu Perfil</string>
+    <string name="account_settings">Configurações da conta</string>
+    <string name="email_sent_title">Email enviado</string>
+    <string name="email_sent_msg">Enviamos um link para redefinir sua senha. Verifique sua caixa de entrada.</string>
+    <string name="accept">Aceitar</string>
+    <string name="logout">Log Out</string>
+    <string name="host_left">O host saiu da partida</string>
+    <string name="game_finished">Partida finalizada</string>
+    <string name="no_more_participants">Não há mais participantes</string>
+    <string name="public_quizzes">Quizzes Públicos</string>
+    <string name="questions">Perguntas</string>
+    <string name="creator">Criador:</string>
+    <string name="play">Jogar</string>
+    <string name="tip_1">Quanto mais rápido você responder, mais pontos ganha!</string>
+    <string name="tip_2">Responda sem hesitar para alcançar o primeiro lugar!</string>
+    <string name="tip_3">Sua velocidade também conta, não apenas seu conhecimento.</string>
+    <string name="tip_4">Mostre seus reflexos! Cada segundo vale pontos.</string>
+    <string name="tip_5">Pense rápido e ganhe mais.</string>
+    <string name="server_error">Erro no servidor</string>
+    <string name="host_left_player">O host saiu da partida</string>
+    <string name="confirm_exit_title">Confirmar saída</string>
+    <string name="confirm_exit_msg">Se você sair agora, sua tentativa não será registrada e todo o progresso desta partida será perdido.</string>
+    <string name="abandon">Abandonar</string>
+    <string name="error_invalid_name">O nome só pode conter letras e espaços, sem números ou caracteres especiais.</string>
+
+
+
+
+
+
+
+
+</resources>
