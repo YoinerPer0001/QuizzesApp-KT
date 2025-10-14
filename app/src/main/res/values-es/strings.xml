@@ -131,7 +131,20 @@
     <string name="confirm_exit_msg">Si sales ahora, tu intento no se registrará y se perderá todo el progreso de esta partida.</string>
     <string name="abandon">Abandonar</string>
     <string name="error_invalid_name">El nombre solo puede contener letras y espacios, sin números ni caracteres especiales.</string>
+    <string name="start_title_1">Aprende jugando con</string>
+    <string name="start_subtitle_1">QuizzesIA</string>
+    <string name="start_desc_1">Descubre una nueva forma de aprender y divertirte.</string>
 
+    <string name="start_title_2">Crea quizzes en segundos</string>
+    <string name="start_desc_2">Escribe un tema o sube un PDF. La IA genera automáticamente un quiz listo para jugar.</string>
+
+    <string name="start_title_3">Practica o compite con amigos</string>
+    <string name="start_desc_3">Elige tu modo favorito: individual para mejorar tus habilidades o multiplayer para desafiar a tus amigos.</string>
+
+    <string name="start_title_4">Genera quizzes todos los días</string>
+    <string name="start_desc_4">Recibe un crédito gratis cada día o mira un anuncio para obtener más.</string>
+
+    <string name="start_button">Comenzar ahora</string>
 
 
 

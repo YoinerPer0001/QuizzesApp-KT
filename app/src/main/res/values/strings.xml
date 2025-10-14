@@ -132,6 +132,22 @@
     <string name="abandon">Leave</string>
     <string name="error_invalid_name">The name can only contain letters and spaces, no numbers or special characters.</string>
 
+    <string name="start_title_1">Learn while playing with</string>
+    <string name="start_subtitle_1">QuizzesIA</string>
+    <string name="start_desc_1">Discover a new way to learn and have fun.</string>
+
+    <string name="start_title_2">Create quizzes in seconds</string>
+    <string name="start_desc_2">Type a topic or upload a PDF. AI automatically generates a quiz ready to play.</string>
+
+    <string name="start_title_3">Practice or compete with friends</string>
+    <string name="start_desc_3">Choose your favorite mode: solo to improve your skills or multiplayer to challenge your friends.</string>
+
+    <string name="start_title_4">Generate quizzes every day</string>
+    <string name="start_desc_4">Get one free credit each day or watch an ad to earn more.</string>
+
+    <string name="start_button">Start now</string>
+
+
 
 
 

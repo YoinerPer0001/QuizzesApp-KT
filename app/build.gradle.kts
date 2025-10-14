@@ -107,7 +107,8 @@ dependencies {
 
     implementation("com.google.android.gms:play-services-ads:24.7.0")
 
-
+    implementation("androidx.compose.animation:animation:1.9.3") // o la que tengas
+    implementation("com.google.accompanist:accompanist-navigation-animation:0.36.0")
 
 
 }

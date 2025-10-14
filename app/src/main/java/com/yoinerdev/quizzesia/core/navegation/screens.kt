@@ -49,3 +49,9 @@ object SocketGraph
 
 @Serializable
 data class AttemptsScreenESC(val quizId:String, val quizTitle:String)
+
+@Serializable
+object StartScreenESC
+
+@Serializable
+object SplasScreenESC
